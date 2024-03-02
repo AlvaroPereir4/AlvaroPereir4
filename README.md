@@ -16,7 +16,6 @@
 
 <div align="center">
     <img align="center" alt="AlvaroPereir4-python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-    <img align="center" alt="AlvaroPereir4-JavaScript" height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
     <img align="center" alt="AlvaroPereir4-Vs Code" height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg">
     <img align="center" alt="AlvaroPereir4-Git" height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
     <img align="center" alt="AlvaroPereir4-Github" height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg">
