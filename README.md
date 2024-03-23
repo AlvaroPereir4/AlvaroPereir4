@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FCB6D0&height=80&section=header&text=Hello%20World&animation=scaleIn&fontSize=48&fontColor=f7f5f5)
-
 <h2 align="center">
 I'm Alvaro Pereira! 😄
 </h2>
