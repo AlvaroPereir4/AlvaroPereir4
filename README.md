@@ -8,9 +8,9 @@
 #### 
 
 #
+**Last updated**: 23 Mar 2024
 
 <div align="center">
-    **Last updated**: 15 Jan 2024
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlvaroPereir4&label=Profile%20views&color=0e75b6&style=flat" alt="AlvaroPereir4" /> </p>
     <div align="center">
       <a href="https://github.com/Netsujr">
