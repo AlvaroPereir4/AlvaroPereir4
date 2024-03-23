@@ -19,12 +19,12 @@
 #
 
 <div align="center">
-    <img align="center" alt="AlvaroPereir4-python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-    <img align="center" alt="AlvaroPereir4-Vs Code" height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg">
-    <img align="center" alt="AlvaroPereir4-Git" height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
-    <img align="center" alt="AlvaroPereir4-Github" height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg">
-    <img align="center" alt="AlvaroPereir4-HTML" height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
-    <img align="center" alt="AlvaroPereir4-CSS" height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
+    **Last updated**: 15 Jan 2024
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=wesleyarm&label=Profile%20views&color=0e75b6&style=flat" alt="wesleyarm" /> </p>
+    <div align="center">
+      <a href="https://github.com/Netsujr">
+      <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Wesleyarm&theme=dark" alt="Netsujr" />
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesleyarm&layout=compact&langs_count=7&theme=dark"/>
 </div>
     
 #
