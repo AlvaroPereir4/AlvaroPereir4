@@ -3,7 +3,7 @@
 <h2 align="center">
 # I'm Alvaro Pereira! 😄
 </h2>
-<img src="https://media1.tenor.com/m/PUdfnHnBGK4AAAAd/art-room.gif" align="right" width="360px" />
+<img src="https://media1.tenor.com/m/PUdfnHnBGK4AAAAd/art-room.gif" align="right" width="360px" style="border: 1px solid pink;"/>
 
 #### - Systems Analysis and Development (SAD)
 #### 
