@@ -7,7 +7,7 @@
 #### - Systems Analysis and Development (SAD)
 #### 
 
-<img src="https://i.imgur.com/JLRMKTS.gif" align="right" width="400px" />
+<img src="https://media1.tenor.com/m/PUdfnHnBGK4AAAAd/art-room.gif" align="right" width="400px" />
 
 #
 **Last updated**: 23 Mar 2024
