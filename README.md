@@ -10,15 +10,6 @@
 #
 
 <div align="center">
-    <a href="https://github.com/AlvaroPereir4">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlvaroPereir4&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroPereir4&layout=compact&langs_count=7&theme=algolia"/>
-    </a>
-</div>
-  
-#
-
-<div align="center">
     **Last updated**: 15 Jan 2024
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlvaroPereir4&label=Profile%20views&color=0e75b6&style=flat" alt="AlvaroPereir4" /> </p>
     <div align="center">
