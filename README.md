@@ -17,12 +17,12 @@
       <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlvaroPereir4&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Netsujr" />
       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroPereir4&layout=compact&langs_count=7&theme=algolia"/>
 </div>
-#### 
           
 #### 
           
 #### 
-
+          
+#### 
 
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](---(linkhere)---)
