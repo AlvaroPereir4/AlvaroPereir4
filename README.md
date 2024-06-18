@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FCB6D0&height=80&section=header&text=Hello%20World&animation=scaleIn&fontSize=48&fontColor=f7f5f5)
 <h1 align="center">
-I'm Alvaro Pereira! 😄
+~~~~
 </h1>
 <img src="https://media1.tenor.com/m/PUdfnHnBGK4AAAAd/art-room.gif" align="right" width="360px" style="border: 1px solid pink;"/>
 
