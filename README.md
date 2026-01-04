@@ -9,7 +9,7 @@
 <h2 align="left">Hi, I'm Alvaro Pereira</h2>
 
 <p align="left">
-  Focused on <b>Cybersecurity</b>, <b>AI Processing</b> & <b>Web Scraping</b>.
+  Focused on <b>Cybersecurity</b>, <b>AI Processing</b>, <b>Automation</b> & <b>Web Scraping</b>.
 </p>
 
 <p align="left" style="font-family: monospace;">
